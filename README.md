@@ -1,5 +1,6 @@
-# projectTwo
-David Vences
+# Project Two
+David Vences<br>
+ITCS-6114<br>
 
 ## Objectives
 ### Problem 1: Single-source Shortest Path Algorithm
