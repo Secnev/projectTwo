@@ -1,0 +1,16 @@
+9 15 D
+A E 1
+B E 3
+B C 2
+C E 2
+C G 3
+C H 3
+D B 1
+D C 2
+D H 6
+D I 2
+E G 3
+E F 3
+F G 2
+G H 2
+I H 5
