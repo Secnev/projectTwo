@@ -13,22 +13,21 @@ Given a connected, undirected, weighted graph, find a spanning tree using edges 
 For each problem, you will take input from a text file. Say you want to run algorithm on the following undirected graph.
 
 The corresponding file format would be:
-
-6 10 U
-A B 1
-A C 2
-B C 1
-B D 3
-B E 2
-C D 1
-C E 2
-D E 4
-D F 3
-E F 3
-A
+<br>
+6 10 U<br>
+A B 1<br>
+A C 2<br>
+B C 1<br>
+B D 3<br>
+B E 2<br>
+C D 1<br>
+C E 2<br>
+D E 4<br>
+D F 3<br>
+E F 3<br>
 
 Here, the first two numbers represent the number of vertices and edges. The letter U stands for undirected graph (D for directed). From the second line, it mentions all edges and its weight (e.g. 
- and its weight is 1. The last line is optional. If given, it represents the source node.
+ and its weight is 1.
 
 If you prefer different input format, you can do so. But must provide enough details so that TA can run your program easily.
 
